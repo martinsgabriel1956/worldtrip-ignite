@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "slug": "north_america",
+      "name": "América do Norte",
+      "banner_title": "Continente",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite em algum local no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia e outras na fronteira entre Panamá e Costa Rica). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+      "info": {
+        "languages": 6,
+        "countries": 4,
+        "hundred_cities": 10
+      },
+      "banner": {
+        "slide_url": "https://images.unsplash.com/photo-1516141535911-e3b982713e61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "page_url": "https://images.unsplash.com/photo-1588272947922-21cbc34dc3a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      },
+      "hundred_cities": [
+        {
+          "id": "new_york",
+          "name": "New York City",
+          "img": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIweW9ya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
+          "country": "United States"
+        },
+        {
+          "id": "cancun",
+          "name": "Cancun",
+          "img": "https://images.unsplash.com/photo-1570737543098-0983d88f796d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FuY3VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png",
+          "country": "Mexico"
+        },
+        {
+          "id": "miami",
+          "name": "Miami",
+          "img": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlhbWl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
+          "country": "United States"
+        },
+        {
+          "id": "toronto",
+          "name": "Toronto",
+          "img": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dG9yb250b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "country": "Canada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "south_america",
+      "name": "América do Sul",
+      "banner_title": "Continente",
+      "info": {
+        "languages": 9,
+        "countries": 13,
+        "hundred_cities": 3,
+        "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite em algum local no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia e outras na fronteira entre Panamá e Costa Rica). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe)."
+      },
+      "banner": {
+        "slide_url": "https://images.unsplash.com/photo-1619546952812-520e98064a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "page_url": "https://images.unsplash.com/photo-1580619305218-8423a7ef79b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+      },
+      "hundred_cities": [
+        {
+          "id": "new_york",
+          "name": "New York City",
+          "img": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIweW9ya3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
+          "country": "United States"
+        },
+        {
+          "id": "cancun",
+          "name": "Cancun",
+          "img": "https://images.unsplash.com/photo-1570737543098-0983d88f796d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FuY3VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png",
+          "country": "Mexico"
+        },
+        {
+          "id": "miami",
+          "name": "Miami",
+          "img": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlhbWl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png",
+          "country": "United States"
+        },
+        {
+          "id": "toronto",
+          "name": "Toronto",
+          "img": "https://images.unsplash.com/photo-1517090504586-fde19ea6066f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dG9yb250b3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "country": "Canada"
+        }
+      ]
+    }
+  ]
+}
